@@ -15,7 +15,7 @@
 <dl>
     <dt>Step1: Clone GitHub Project on your PC</dt>
     <dd>
-        <p>git clone https://github.com/nayanrdeveloper/nuron_nft_marketplace_fronted</p>
+        <p>git clone https://github.com/Aryanwadhwa14/t-hacks-hackathon-</p>
     </dd>
     <dt>Step-2: </dt>
     <dd>
